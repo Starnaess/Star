@@ -14,9 +14,9 @@
 # 6. Matplotlib /02 -  Esercitazione 03 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Starnaess/Star/blob/main/Esercitazione03/015_Matplotlib.ipynb)
 
 
-# 7. Visualization-  Esercitazione 03 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Starnaess/Star/blob/main/Esercitazione03/Visualization.pdf)
+# 7. Visualization -  Esercitazione 03 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Starnaess/Star/blob/main/Esercitazione03/Visualization.pdf)
 
-
+# 8. esercizio_matplot - Esercitazione 03 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Starnaess/Star/blob/main/Esercitazione03/esercizio_matplot/esercizi_matplot.pdf)
 
 
 ## test02
